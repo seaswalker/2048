@@ -1,4 +1,5 @@
 # 2048
-2048
 
-test
+使用Swing实现, 截图:
+
+![截图](screenshots/main.png)
